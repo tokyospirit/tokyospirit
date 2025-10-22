@@ -2,7 +2,7 @@
   
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,18,24&height=180&section=header&text=Pedro%20Henrique&fontSize=50&fontAlignY=35&animation=twinkling&fontColor=fff" />
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=9D7CD8&center=true&vCenter=true&width=600&lines=Software+Developer;Discord+Bot+Engineer;Roblox+Game+Creator;Web+Developer;Always+Learning+New+Tech)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=9D7CD8&center=true&vCenter=true&width=600&lines=Discord+Bot+Engineer;Roblox+Game+Creator;Web+Developer;Always+Learning+New+Tech)](https://git.io/typing-svg)
 
 </div>
 
@@ -49,20 +49,6 @@ Desenvolvedor focado em criar soluções práticas e sistemas bem estruturados. 
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tokyospirit&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D7CD8&text_color=C9D1D9&langs_count=8" />
 <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=tokyospirit&theme=tokyonight&utcOffset=-3" />
-
-</div>
-
-<br/>
-
-## Projetos em Destaque
-
-<div align="center">
-
-[![DarkGlass Bot](https://github-readme-stats.vercel.app/api/pin/?username=tokyospirit&repo=darkglass-bot&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D7CD8&icon_color=9D7CD8&text_color=C9D1D9)](https://github.com/tokyospirit/darkglass-bot)
-
-</div>
-
-<br/>
 
 </div>
 
