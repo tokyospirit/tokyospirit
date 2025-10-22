@@ -10,7 +10,19 @@
 
 ---
 
-## 💫 Sobre
+## Sobre
 
 Desenvolvedor focado em criar soluções práticas e sistemas bem estruturados. Experiência em desenvolvimento de bots Discord, criação de jogos e mecânicas para Roblox, e aplicações web full-stack. Priorizo código limpo, arquitetura modular e aprendizado contínuo de novas tecnologias.
+
+## Contato
+
+<p>
+  <a href="mailto:pedrohenriqueq15@yahoo.com">
+    <img height="24" alt="Yahoo" src="https://cdn.simpleicons.org/yahoo/720e9e" />
+  </a>
+  <a href="https://discord.com/users/854418868662304829">
+    <img height="24" alt="Discord" src="https://cdn.simpleicons.org/discord/5865F2" />
+  </a>
+</p>
+
 
