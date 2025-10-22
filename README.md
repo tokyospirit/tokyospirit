@@ -8,13 +8,11 @@
 
 <br/>
 
-## Sobre o Perfil
+## Sobre
 
 Desenvolvedor focado em criar soluções práticas e sistemas bem estruturados. Experiência em desenvolvimento de bots Discord, criação de jogos e mecânicas para Roblox, e aplicações web full-stack. Priorizo código limpo, arquitetura modular e aprendizado contínuo de novas tecnologias.
 
 <br/>
-
-## Stack Tecnológico
 
 ### Linguagens
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
