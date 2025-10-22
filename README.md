@@ -1,6 +1,6 @@
-<h1 align="center">tokyospirit</h1>
+<h1 align="center">Pedro Henrique</h1>
 <p align="center">
-  Dev focado em Roblox (Lua), explorando JavaScript, Python, Go, HTML e CSS.
+  Dev iniciante focado em projetos pessoais e criação de mapas no Roblox (Lua); aprendendo JavaScript, Python, Go, HTML e CSS para web.
 </p>
 
 <p align="center">
@@ -10,9 +10,9 @@
 </p>
 
 ### Sobre
-- Construo sistemas de gameplay e automações para Roblox com ênfase em código limpo, modular e testes rápidos.  
-- Explorando ferramentas auxiliares em JS/TS e Python para pipelines, CLIs e integrações.  
-- Foco atual: mecânicas envolventes e arquitetura de componentes para jogos.
+- Foco atual: projetos pessoais e criação de mapas no Roblox usando Lua.  
+- Estudo contínuo de JavaScript, Python, Go, HTML e CSS para aplicações web.  
+- Objetivo: publicar pequenos projetos com código simples e evolução constante.
 
 ### Stack
 <p>
@@ -34,18 +34,6 @@
   <img height="190" src="https://streak-stats.demolab.com?user=tokyospirit&theme=github-dark&hide_border=true" alt="GitHub streak" />
 </p>
 
-### Troféus
-<p>
-  <img src="https://github-profile-trophy.vercel.app/?username=tokyospirit&theme=onedark&margin-w=10&margin-h=10" alt="GitHub Trophies" />
-</p>
-
-### Cobrinha
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="dist/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="dist/github-snake.svg" />
-  <img alt="github-snake" src="dist/github-snake.svg" />
-</picture>
-
 ### Contato
-- Email: coloque aqui  
-- Discord: coloque aqui
+- Email: [pedrohenriqueq15@yahoo.com]  
+- Discord: [https://discord.com/users/854418868662304829)]
