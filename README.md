@@ -35,5 +35,12 @@
 </p>
 
 ### Contato
-- Email: [pedrohenriqueq15@yahoo.com]  
-- Discord: [https://discord.com/users/854418868662304829)]
+<p>
+  <a href="mailto:pedrohenriqueq15@yahoo.com">
+    <img alt="Yahoo Mail" src="https://img.shields.io/badge/Yahoo%20Mail-720e9e?style=for-the-badge&logo=yahoo&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/854418868662304829">
+    <img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+</p>
+
